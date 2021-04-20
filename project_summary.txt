@@ -1,0 +1,4 @@
+Name：Jiye Lyu
+The types of model(s) I tried: KNN, NaiveGausian and RandomForest
+My validation results for your model(s): KNN(K is 6, Accuracy_Score is 0.8314606741573034), NaiveGausian(0.8202247191011236) and RandomForest(0.8352059925093633).
+RandomForest model is best because the accuracy rate of it is the highest.
